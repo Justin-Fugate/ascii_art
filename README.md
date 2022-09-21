@@ -1,2 +1,2 @@
 # ascii_art
-the start of an ascii art generator
+the start of an ascii art generator (WIP)
